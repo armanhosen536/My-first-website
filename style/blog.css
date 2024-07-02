@@ -3,3 +3,12 @@ div{
     padding: 20px;
    margin-bottom: 20px;
 }
+.incremental{
+    background-color: rgba(18, 97, 167, 0.733);
+    font-size: 20px;
+    
+}
+ul{
+    font-style: italic;
+    font-weight: 100px;
+}
